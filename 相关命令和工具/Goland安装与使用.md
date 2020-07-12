@@ -31,3 +31,14 @@
 2. Ctrl + D, 复制当前光标所在行
 3. ALT + SHIFT + UP/DOWN,可以将所在行的代码上下移动
 4. CTRL + SHIFT + U,可以将选中内容进行大小写转化
+
+
+
+### 五、Goland个性化设置
+
+#### （一）、字体设置
+
+> **File->Settings->Editor->Font** 
+
+#### （二）、主题设置
+
